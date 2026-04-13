@@ -1,0 +1,30 @@
+# Week 7 Assignment: ARIA v4.0 (The Accessible Auditor)
+# 可及性稽核分析系統
+
+# 路網分析與圖論套件
+osmnx>=2.0.0
+networkx>=3.0.0
+
+# 核心地理資料分析套件
+geopandas>=1.1.0
+shapely>=2.0.0
+
+# 空間插值與統計套件
+pykrige>=1.7.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# 資料處理套件
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 視覺化套件
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# 地理空間輸出套件
+rasterio>=1.3.0
+
+# 環境設定與工具
+jupyter>=1.0.0
+python-dotenv>=1.0.0
